@@ -1,4 +1,4 @@
-# VCE2PDF_Formatter
+# VCE2PDF_Converter
 A lightweight Python utility to transform exported VCE (Visual CertExam) data into professionally formatted, searchable PDF documents.
 
 ## 💡 Why this exists
